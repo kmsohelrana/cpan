@@ -1,0 +1,6 @@
+*
+!.gitignore
+!banks/
+!banks/**
+!seeder_files/
+!seeder_files/**

@@ -1,0 +1,42 @@
+@media (min-width: 992px) {
+    #sidebar-menu-search-wrapper {
+        max-width: 320px;
+    }
+}
+
+@media (min-width: 1200px) {
+    #sidebar-menu-search-wrapper {
+        max-width: 380px;
+    }
+}
+
+#sidebar-menu-search-results {
+    border: 1px solid #dfe3ea;
+    scrollbar-width: thin;
+    scrollbar-color: rgba(0, 0, 0, 0.25) transparent;
+}
+
+#page-container.dark-mode #sidebar-menu-search-results {
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+#sidebar-menu-search-results::-webkit-scrollbar {
+    width: 5px;
+}
+
+#sidebar-menu-search-results::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+#sidebar-menu-search-results::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.25);
+    border-radius: 3px;
+}
+
+#page-container.dark-mode #sidebar-menu-search-results {
+    scrollbar-color: rgba(255, 255, 255, 0.25) transparent;
+}
+
+#page-container.dark-mode #sidebar-menu-search-results::-webkit-scrollbar-thumb {
+    background-color: rgba(255, 255, 255, 0.25);
+}

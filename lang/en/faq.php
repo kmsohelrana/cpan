@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'faq_title' => "Frequently Asked Questions",
+    'faq_subtitle' => "Merchants can easily and securely accept payments through <b>Janata Bank</b>'s QR-based merchant service. As a registered merchant, you can receive payments from customers via <b>QR code</b>, get instant payment notifications, and settle funds directly into your Janata Bank account.",
+    'question_1' => "How do I register as a Janata Bank merchant?",
+    'question_2' => "Can I receive payments 24/7?",
+    'question_2_answer' => "Yes, you can receive QR payments from customers 24 hours a day, 7 days a week.",
+    'question_3' => "What is the maximum payment amount per transaction?",
+    'question_3_answer' => "The maximum amount per transaction is 1,00,000 BDT. Please contact your branch for higher limit requests.",
+    'question_4' => "How will I get my QR code after registration?",
+    'question_4_answer' => "After your registration is approved by Janata Bank, a QR code will be generated and deployed for your shop by a bank representative.",
+    'question_5' => "Which apps can customers use to scan my QR code?",
+    'question_5_answer' => "Customers can use any NPSB-compliant mobile banking or internet banking app to scan your Janata Bank merchant QR code and make payments.",
+    'question_6' => "When will the payment amount be settled into my account?",
+    'question_6_answer' => "Payments are settled into your Janata Bank account within T+1 business days after the transaction.",
+    'question_7' => "What should I do if a transaction shows failed but the customer's money was deducted?",
+    'question_7_answer' => "Please contact your nearest Janata Bank branch or call our support helpline. All disputed transactions will be resolved within a maximum of 3 working days.",
+    'question_8' => "How can I view my transaction history?",
+    'question_8_answer' => "You can view your complete transaction history and payment notifications through the Easy Merchant app using your registered mobile number.",
+    'question_9' => "Do I need a Janata Bank account to receive settlements?",
+    'question_9_answer' => "Yes, a valid Janata Bank account is required to receive payment settlements.",
+    'question_10' => "Who do I contact for support or queries?",
+    'question_10_answer' => "You can contact your nearest Janata Bank branch or reach our merchant support team for any queries related to your QR merchant service.",
+];
